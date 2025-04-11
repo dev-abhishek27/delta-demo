@@ -6,3 +6,6 @@ Abhishek
 
 # branch
 google
+
+# day 2
+this is the operation of git and github 
